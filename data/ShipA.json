@@ -1,0 +1,8 @@
+{
+  "name": "ShipA",
+  "healthPoints": 100,
+  "shieldPoints": 80,
+  "shieldRecovery": 1,
+  "gunSlots": 2,
+  "moduleSlots": 2
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ModuleA",
+    "healthPoints": 0,
+    "shieldPoints": 50,
+    "reloadSpeed": 0,
+    "shieldRecovery": 0
+  },
+  {
+    "name": "ModuleB",
+    "healthPoints": 50,
+    "shieldPoints": 0,
+    "reloadSpeed": 0,
+    "shieldRecovery": 0
+  },
+  {
+    "name": "ModuleC",
+    "healthPoints": 0,
+    "shieldPoints": 0,
+    "reloadSpeed": -0.2,
+    "shieldRecovery": 0
+  },
+  {
+    "name": "ModuleD",
+    "healthPoints": 0,
+    "shieldPoints": 0,
+    "reloadSpeed": 0,
+    "shieldRecovery": 0.2
+  }
+]

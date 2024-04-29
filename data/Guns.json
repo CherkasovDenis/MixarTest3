@@ -1,0 +1,17 @@
+[
+    {
+        "name": "GunA",
+        "reloadTime": 3,
+        "damage": 5
+    },
+    {
+        "name": "GunB",
+        "reloadTime": 2,
+        "damage": 4
+    },
+    {
+        "name": "GunC",
+        "reloadTime": 5,
+        "damage": 20
+    }
+]
